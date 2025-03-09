@@ -18,7 +18,7 @@ I’m a front-end developer who loves crafting **interactive, exciting, and visu
 ## 🚀 **Projects**
 ### 🎮 **GameHub**
 A dynamic and responsive web shop for gamers, built using **HTML, CSS, and JavaScript**.  
-🔗 [GitHub Repo](https://github.com/BtheBEST84/html-css-course-assignment) | 🌍 [Live Demo](https://bthebest84.github.io/Semester-project1)
+🔗 [GitHub Repo](https://github.com/BtheBEST84/html-css-course-assignment) | 🌍 [Live Demo](https://bthebest84.github.io/html-css-course-assignment)
 
 ### 🏎️ **RacingBear**
 A high-speed racing-themed web page built with **HTML, CSS, and JavaScript**, featuring real-time data interaction through APIs.  
