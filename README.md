@@ -18,15 +18,15 @@ I’m a front-end developer who loves crafting **interactive, exciting, and visu
 ## 🚀 **Projects**
 ### 🎮 **GameHub**
 A dynamic and responsive web shop for gamers, built using **HTML, CSS, and JavaScript**.  
-🔗 [GitHub Repo](https://github.com/yourusername/gamehub) | 🌍 [Live Demo](https://yourwebsite.com/gamehub)
+🔗 [GitHub Repo](https://github.com/BtheBEST84/html-css-course-assignment) | 🌍 [Live Demo](https://bthebest84.github.io/Semester-project1)
 
 ### 🏎️ **RacingBear**
 A high-speed racing-themed web page built with **HTML, CSS, and JavaScript**, featuring real-time data interaction through APIs.  
-🔗 [GitHub Repo](https://github.com/yourusername/racingbear) | 🌍 [Live Demo](https://yourwebsite.com/racingbear)
+🔗 [GitHub Repo](https://github.com/NoroffFEU/FED1-PE1-BtheBEST84) | 🌍 [Live Demo](https://www.racing-bear.com)
 
 ### 🏛️ **Museum of Interactivity**
 A sleek, responsive webpage for an interactive museum, built with **HTML & CSS** to enhance user engagement.  
-🔗 [GitHub Repo](https://github.com/yourusername/museum-interactivity) | 🌍 [Live Demo](https://yourwebsite.com/museum-interactivity)
+🔗 [GitHub Repo](https://github.com/BtheBEST84/Semester-project1) | 🌍 [Live Demo](https://bthebest84.github.io/Semester-project1)
 
 ---
 
